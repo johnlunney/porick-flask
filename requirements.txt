@@ -1,6 +1,6 @@
 Flask
 MySQL-python
 SQLAlchemy
-bcrypt
+py-bcrypt
 Flask-SQLAlchemy
 mock
